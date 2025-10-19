@@ -1,0 +1,94 @@
+### Health Check
+GET http://localhost:5000/
+Accept: application/json
+
+###
+
+### Generate 8 hashtags with default model
+POST http://localhost:5000/hashtags
+Content-Type: application/json
+
+{
+  "text": "Aprendendo a criar APIs em .NET com inteligência artificial usando Ollama",
+  "count": 8,
+  "model": "llama3.2:3b"
+}
+
+###
+
+### Generate hashtags with default count (10)
+POST http://localhost:5000/hashtags
+Content-Type: application/json
+
+{
+  "text": "Desenvolvimento de software moderno com práticas de DevOps e CI/CD",
+  "model": "llama3.2:3b"
+}
+
+###
+
+### Generate 5 hashtags
+POST http://localhost:5000/hashtags
+Content-Type: application/json
+
+{
+  "text": "Explorando o mundo da programação funcional e paradigmas modernos",
+  "count": 5
+}
+
+###
+
+### Test with maximum count (30)
+POST http://localhost:5000/hashtags
+Content-Type: application/json
+
+{
+  "text": "Tecnologia, inovação, inteligência artificial, machine learning e o futuro da computação",
+  "count": 30,
+  "model": "llama3.2:3b"
+}
+
+###
+
+### Test with count exceeding maximum (should cap at 30)
+POST http://localhost:5000/hashtags
+Content-Type: application/json
+
+{
+  "text": "Desenvolvimento web full-stack com frameworks modernos",
+  "count": 50,
+  "model": "llama3.2:3b"
+}
+
+###
+
+### Test error: empty text
+POST http://localhost:5000/hashtags
+Content-Type: application/json
+
+{
+  "text": "",
+  "count": 8
+}
+
+###
+
+### Test error: missing text field
+POST http://localhost:5000/hashtags
+Content-Type: application/json
+
+{
+  "count": 8
+}
+
+###
+
+### Test with different model (phi4-mini)
+POST http://localhost:5000/hashtags
+Content-Type: application/json
+
+{
+  "text": "Explorando recursos avançados de C# e .NET 8",
+  "count": 6,
+  "model": "phi4-mini"
+}
