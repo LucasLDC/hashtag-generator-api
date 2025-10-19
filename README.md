@@ -391,27 +391,6 @@ dotnet build
 
 ---
 
-## 📝 Requisitos Cumpridos
-
-Esta API foi desenvolvida seguindo os seguintes requisitos:
-
--   [x] Minimal API em .NET 8+
--   [x] Endpoint POST /hashtags
--   [x] Integração com Ollama via HttpClient
--   [x] Uso de `stream: false`
--   [x] Structured outputs com JSON Schema
--   [x] Prompt controlado para gerar exatamente N hashtags
--   [x] Formato de request: `{text, count, model}`
--   [x] Formato de response: `{model, count, hashtags[]}`
--   [x] Validação de hashtags (# no início, sem espaços, sem duplicatas)
--   [x] Valores padrão (count=10, máximo=30)
--   [x] Respostas de erro (400) com mensagens úteis
--   [x] Arquivos de teste (.http, .ps1, .sh)
--   [x] Documentação completa
--   [x] Código em português brasileiro
-
----
-
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Para contribuir:
