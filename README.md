@@ -435,7 +435,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Lucas LDC**
 
 -   GitHub: [@LucasLDC](https://github.com/LucasLDC)
--   LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
+-   LinkedIn: [Lucas Leal das Chagas](https://www.linkedin.com/in/lucas-leal-das-chagas-3424a2210/)
 
 ---
 

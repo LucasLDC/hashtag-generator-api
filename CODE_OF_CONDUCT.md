@@ -43,3 +43,7 @@ Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contri
 ## Perguntas?
 
 Se você tiver dúvidas sobre este Código de Conduta, entre em contato conosco através das [Issues](https://github.com/LucasLDC/hashtag-generator-api/issues).
+
+---
+
+**Mantenedor:** [Lucas Leal das Chagas](https://www.linkedin.com/in/lucas-leal-das-chagas-3424a2210/)

@@ -67,7 +67,7 @@ hashtag-generator-api/
 
 -   💬 [Discussions](https://github.com/LucasLDC/hashtag-generator-api/discussions) - Tire dúvidas e converse
 -   🐛 [Issues](https://github.com/LucasLDC/hashtag-generator-api/issues) - Reporte problemas
--   📧 E-mail - [seu-email@example.com]
+-   📧 LinkedIn - [Lucas Leal das Chagas](https://www.linkedin.com/in/lucas-leal-das-chagas-3424a2210/)
 
 ## 📊 Status do Projeto
 

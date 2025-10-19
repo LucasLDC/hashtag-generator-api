@@ -121,4 +121,5 @@ Se você tiver dúvidas sobre esta política de segurança, entre em contato atr
 
 ---
 
-**Última atualização:** 18 de Outubro de 2025
+**Última atualização:** 18 de Outubro de 2025  
+**Contato:** [Lucas Leal das Chagas](https://www.linkedin.com/in/lucas-leal-das-chagas-3424a2210/)

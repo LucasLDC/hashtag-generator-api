@@ -84,7 +84,7 @@ Então abra um Pull Request no GitHub com:
 
 ## Reportar Bugs
 
-Use as [Issues do GitHub](https://github.com/SEU-USUARIO/hashtag-generator-api/issues) e inclua:
+Use as [Issues do GitHub](https://github.com/LucasLDC/hashtag-generator-api/issues) e inclua:
 
 -   Descrição clara do problema
 -   Passos para reproduzir
@@ -94,7 +94,7 @@ Use as [Issues do GitHub](https://github.com/SEU-USUARIO/hashtag-generator-api/i
 
 ## Sugerir Melhorias
 
-Adoramos sugestões! Abra uma [Issue](https://github.com/SEU-USUARIO/hashtag-generator-api/issues) com:
+Adoramos sugestões! Abra uma [Issue](https://github.com/LucasLDC/hashtag-generator-api/issues) com:
 
 -   Descrição detalhada da sugestão
 -   Exemplos de uso
